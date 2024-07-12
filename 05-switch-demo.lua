@@ -1,0 +1,1 @@
+-- There is no thing in lua as switch
